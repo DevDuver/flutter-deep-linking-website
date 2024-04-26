@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.duvermelo.miscelaneos",
+      "sha256_cert_fingerprints":
+      ["FD:D0:13:B5:DF:79:73:B4:B5:8C:9E:93:A2:0F:B0:EE:C5:49:82:E9:FF:9F:15:40:96:87:09:AD:28:8B:9F:79"]
+    }
+  }]
